@@ -137,6 +137,19 @@ form input
 	margin: 1px 1px 1px 1px;
 }
 
+td
+{
+	border: 1px solid black;
+}
+
+
+label
+{
+	min-width: 150px;
+	display: inline-block;
+}
+
+
 /*
 margin: 5.5px  15px    5.5px   0
 		right  top	   bottom  left
