@@ -1,0 +1,159 @@
+/*class's weden mit . bezeichnet */
+.text
+{
+	color: blue;
+	
+}
+
+
+
+header
+{
+	#background-image: url("a.jpg");
+	border: 2px solid black;
+	#border: Größe form farbe;
+	padding: 20px;
+	margin: 30px;
+	border-radius: 30px;
+	
+ 	
+	
+	
+	
+	#padding ist die Innenabstand;
+	#padding (oben unten) (links recht);
+	
+	
+	
+}
+
+.navilist li
+/* alle li in navibar*/
+{
+	#float: left;
+	display: inline-block;
+	/*
+	position: fixed;
+	width:200%;
+	
+	befesigen diesen abschnitt
+	*/
+	
+	
+}
+
+.navilist li a
+/* alle a in li*/
+{
+	margin: 0px 15px;
+}
+
+.navilist li a:hover
+/* wenn man mit dem Maus rüber geht ändert sich die Farbe*/
+{
+	color: red;
+}
+
+.navibar
+{
+	
+}
+
+
+
+
+body
+{
+	
+	
+	background-color: aquamarine;
+	margin: 5px;
+}
+
+h1
+{
+	background-image: url("../img/a.jpg");
+	font-family : "Brush Script MT";
+	font-weight: 900;
+	font-size: 50px;
+	#position: relative;
+	padding: 50px;
+	border: 10px double royalblue;
+	#background-color: mediumslateblue;
+	text-align: center;
+	color: aquamarine;
+	background-size: cover;
+	
+	
+}
+
+#listen
+{
+	font-family : "Comic Sans MS";
+	font-weight: 900;
+	font-size: 30px;
+	margin: 0px;
+	
+	
+}
+
+.zeilen
+{
+	padding: 1o0px;
+}
+
+#bild
+{
+	margin: 0px 0px;
+	padding: 0px 400px;
+}
+
+.sections
+{
+	background-color: #1eFFD9;
+	border: 20px solid #4eFFD9;
+
+}
+
+
+/*ids weden mit # bezeichnet */
+.haupt
+{
+	background-color: #1eFFD9;
+	border: 20px solid #4eFFD9;
+}
+
+.spezial-text
+{
+	color: red;
+}
+
+footer
+{
+	background-color: #6565c7;
+	padding: 0px 0px 200px 10px;
+	letter-spacing: 6px;
+	list-style-type: none;
+	/* die punkte vor dem Text entfernen*/
+	/* die punkte vor dem Text entfernen*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
