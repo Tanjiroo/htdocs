@@ -97,9 +97,17 @@ h1
 	
 }
 
+table
+{
+	margin: 30px;
+}
+
 .zeilen
 {
-	padding: 1o0px;
+	padding: 5px 20px;
+	text-align: left;
+	border: 1px solid black;
+	
 }
 
 #bild
@@ -117,10 +125,19 @@ h1
 
 
 /*ids weden mit # bezeichnet */
-.haupt
+main ul
 {
 	background-color: #1eFFD9;
 	border: 20px solid #4eFFD9;
+	border: 5px dashed black;
+	margin: 30px;
+}
+
+
+main ul li
+{
+	padding:10px;
+	
 }
 
 .spezial-text
@@ -130,8 +147,8 @@ h1
 
 footer
 {
-	background-color: #6565c7;
-	padding: 0px 0px 200px 10px;
+	background-color: #4eFFD9;
+	padding: 0px 0px 20px 10px;
 	letter-spacing: 6px;
 	list-style-type: none;
 	/* die punkte vor dem Text entfernen*/
