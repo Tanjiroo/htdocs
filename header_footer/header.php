@@ -39,6 +39,27 @@
 						Über die Webseite
 						</a>
 					</li>
+					<li>
+						<a href="soziale_medien.php">
+						<!---  # hash ist ein Referenz auf dieselbe Seite bzw.. daunten --->
+						<!-- wenn man darauf klickt, kommt man auf section di="info"--->
+						Soziale Medien
+						</a>
+					</li>
+					<li>
+						<a href="java_tutorial.php">
+						<!---  # hash ist ein Referenz auf dieselbe Seite bzw.. daunten --->
+						<!-- wenn man darauf klickt, kommt man auf section di="info"--->
+						Java Tutorial
+						</a>
+					</li>
+					<li>
+						<a href="python_tutorial.php">
+						<!---  # hash ist ein Referenz auf dieselbe Seite bzw.. daunten --->
+						<!-- wenn man darauf klickt, kommt man auf section di="info"--->
+						Python Tutorial
+						</a>
+					</li>
 				</ul>
 				
 			</nav>
