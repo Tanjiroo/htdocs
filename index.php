@@ -21,6 +21,12 @@
 						Abgabe der Aufgaben
 						</a>
 					</ol>
+						
+					<ol>
+						<a>
+						PIN: 768089
+						</a>
+					</ol>
 					<ol>
 						
 						<a href="https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/9730261003?6" >
@@ -45,6 +51,7 @@
 						SymPy
 						</a>
 					</ol>
+					
 					
 				</li>
 				<br>
@@ -116,13 +123,43 @@
 						</a>
 					</ol>
 					<ol>	
-						<a href="https://ae.cs.uni-frankfurt.de/videos/algo220.html" >
+						<a href="https://ae.cs.uni-frankfurt.de/ohi/index.php?c=614eb57d889f73f54a8aac5a7a9cc007cc122b715334d4df5e01579a50c81d28">
+						Abgabe der Aufgabe
+						</a>
+					</ol>
+					<ol>	
+						<a>
+						PIN: 324522
+						</a>
+					</ol>
+					<ol>	
+						<a href="https://docs.google.com/document/d/1lq4l54ai5JBLX3Wd0ljCwy1FRThOhd-RFLyoZRJOcMU/edit">
+						Tutorium-Mitschriften Algo-1
+						</a>
+					</ol>
+					<ol>	
+						<a href="https://ae.cs.uni-frankfurt.de/videos/algo220.html">
 						Videos
 						</a>
 					</ol>
 					<ol>	
-						<a href="https://uni-frankfurt.zoom.us/j/97989299701?pwd=Q08rejlNajlndU13djRYYytiVmdlZz09#success" >
+						<a href="https://ae.cs.uni-frankfurt.de/videos/algo220solutions.html">
+						Lösung-Videos
+						</a>
+					</ol>
+					<ol>	
+						<a href="https://uni-frankfurt.zoom.us/j/97989299701?pwd=Q08rejlNajlndU13djRYYytiVmdlZz09#success">
 						Zoom-Link
+						</a>
+					</ol>
+					<ol>	
+						<a href="https://visualgo.net/en">
+						Visualgo
+						</a>
+					</ol>
+					<ol>	
+						<a href="https://www.cs.usfca.edu/~galles/visualization/HeapSort.html">
+						Heapsort
 						</a>
 					</ol>
 				</li>
@@ -135,13 +172,13 @@
 					</a>
 					<ol>
 						
-						<a href="https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/9741467676?6" >
+						<a href="https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/9741467676?6">
 						Olat-Kurs
 						</a>
 					</ol>
 					<ol>
 						
-						<a href="https://uni-frankfurt.zoom.us/j/93578357264?pwd=UDVKT0laUWFLajVEZmlRb1FKOUcrUT09#success" >
+						<a href="https://uni-frankfurt.zoom.us/j/93578357264?pwd=UDVKT0laUWFLajVEZmlRb1FKOUcrUT09#success">
 						Zoom-Link
 						</a>
 					</ol>

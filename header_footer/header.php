@@ -22,7 +22,12 @@
 				<ul class="navilist">
 					<li>
 						<a href="index.php">
-						Meine Studiumswebseite
+						Home
+						</a>
+					</li>
+					<li>
+						<a href="wichtige_termine.php">
+						Wichtige Termine
 						</a>
 					</li>
 					
@@ -62,6 +67,21 @@
 					</li>
 				</ul>
 				
+			</nav>
+			<nav class="navibar">
+				<ul class="navilist">
+					<li>
+						<a href="marc.php">
+						Marc
+						</a>
+					</li>
+			
+					<li>
+						<a href="latex_doc.php">
+						Latex
+						</a>
+					</li>
+				</ul>
 			</nav>
 		</header>
 		
