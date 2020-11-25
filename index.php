@@ -4,8 +4,17 @@
 		<!--Hauptseite-->
 
 			<!------------------------------  Liste --------------------------------------------->
+			
+			<ul>
+				<li>
+					<a class="a" href="https://trello.com/b/i7OwcnXv/to-do">
+					Trello
+					</a>
+				</li>
+			</ul>
 			<ul>
 			<!-- <ol> oder <ul> ändert man die Nummer und die Punkten -->
+				
 				<li>
 					<!--Liste-->
 					<a class="a">
@@ -20,11 +29,17 @@
 						<a href="https://ae.cs.uni-frankfurt.de/ohi/index.php?c=298e29d72f4c9688f6b2d43645d525ba0b871dbbc997e9f7dc1ebd0775a77888" >
 						Abgabe der Aufgaben
 						</a>
-					</ol>
-						
-					<ol>
 						<a>
 						PIN: 768089
+						</a>
+						<a>
+						Donnerstag um 08:00 Uhr
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="https://uni-frankfurt.zoom.us/j/96429520459?pwd=VGJWZlpvd2szS2dYbmRscDI2NXJrdz09" >
+						Zoom-Link zum Tutorium
 						</a>
 					</ol>
 					<ol>
@@ -106,7 +121,12 @@
 					</ol>
 					<ol>
 						<a href="https://uni-frankfurt.zoom.us/j/97948509342?pwd=OVhSN2dxenFMM2ltZVk1ZFFwa25lUT09" >
-						Zoom-Link
+						Zoom-Link zur Vorlesung
+						</a>
+					</ol>
+					<ol>
+						<a href="https://uni-frankfurt.zoom.us/j/92175796272?pwd=YU9YQy9uQmlEd0dyV012KzAzempWQT09" >
+						Zoom-Link zum Tutorium
 						</a>
 					</ol>
 				</li>
@@ -149,7 +169,15 @@
 					</ol>
 					<ol>	
 						<a href="https://uni-frankfurt.zoom.us/j/97989299701?pwd=Q08rejlNajlndU13djRYYytiVmdlZz09#success">
-						Zoom-Link
+						Zoom-Link zur Vorlesung
+						</a>
+					</ol>
+					<ol>	
+						<a href="https://ae.cs.uni-frankfurt.de/b/ale-nnu-y4c-jdl">
+						Zoom-Link zum Tutorium
+						</a>
+						<a>
+						Code: 381882
 						</a>
 					</ol>
 					<ol>	
@@ -179,7 +207,46 @@
 					<ol>
 						
 						<a href="https://uni-frankfurt.zoom.us/j/93578357264?pwd=UDVKT0laUWFLajVEZmlRb1FKOUcrUT09#success">
-						Zoom-Link
+						Zoom-Link zur Voelesung
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="https://uni-frankfurt.zoom.us/j/95677437960?pwd=WGliRTk0eXNWQkc3QlN0NUg3Wk1IQT09">
+						Zoom-Link zum Tutorium
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="https://www.overleaf.com/project/5fb660f83175f9211635643f">
+						LaTeX Editor
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="https://app.mural.co/t/team138547">
+						Mural
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="https://trello.com/b/J8tdbdyx/givara">
+						Trello
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="prg_uebung_1.php">
+						Übung 1
+						</a>
+						<a>
+						Abgabe der Übung 1 ist am 29.11.2020
+						</a>
+					</ol>
+					<ol>
+						
+						<a href="https://cloud.mongodb.com/v2/5fa85eedb08d962b98f258e8#clusters">
+						MangoDB
 						</a>
 					</ol>
 				</li>
@@ -217,8 +284,11 @@
 						</a>
 					</ol>
 				</li>
+				
 				<br>
 			</ul>
+			
+			
 			
 				
 			
