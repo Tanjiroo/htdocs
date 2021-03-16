@@ -1,0 +1,149 @@
+
+
+body{
+    background-color: olive;
+    
+}
+/**
+css of arabic
+*/
+
+
+.body{
+    background-color: olive;
+    
+}
+
+
+
+.arabic-body{
+    text-align: center;
+    background-color: olive;
+    
+}
+
+
+
+.arabic-body div{
+    margin: 3px;
+    text-align: center;
+    
+    height: 160px;
+    width: 120px;
+    display: inline-block;
+    border-radius: 5px;
+  
+}
+
+.arabic-body div div{
+    margin: 5px 9px 0px 9px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+   
+    border-radius: 50px;
+    
+}
+
+
+.arabic-body div h4{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+css of exercises
+*/
+
+
+.main-content{
+    
+    
+}
+.exercise-title{
+    text-align: center;
+    
+    
+}
+.exercise-content{
+    padding: 1px 5px;
+    
+}
+.exercise-options{
+    text-align: right;
+    padding: 2px 0px;
+   
+    margin:5px auto;
+    
+}
+.exercise-options p{
+    
+    display: inline-block;
+    margin: 10px 5%;
+    
+    
+    
+    
+}
+.exercise-check{
+    text-align: center;
+    
+    
+    
+}
+
+
+.exercise-solutions{
+    text-align: right;
+    
+
+}
+
+
+
+.exercise-solutions p{
+    display: inline-block;
+
+}
+
+
+input{
+    text-align: right;
+}
+
+::-webkit-input-placeholder {
+    text-align: right;
+  }
+  
+  :-moz-placeholder {
+    text-align: right;
+  }
+  option{
+      text-align: right;
+  }

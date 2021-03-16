@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(106, 240, 168, 0.384);
+    
+}
+
+#body-content{
+    position: relative;
+    top: 25%;
+    left: 20%;
+}
