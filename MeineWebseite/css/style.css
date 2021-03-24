@@ -1,0 +1,248 @@
+/*class's weden mit . bezeichnet */
+.text
+{
+	color: blue;
+	
+}
+
+
+
+header
+{
+	#background-image: url("a.jpg");
+	border: 2px solid black;
+	#border: Größe form farbe;
+	padding: 20px;
+	margin: 30px;
+	border-radius: 30px;
+	
+ 	
+	
+	
+	
+	#padding ist die Innenabstand;
+	#padding (oben unten) (links recht);
+	
+	
+	
+}
+
+.navilist li
+/* alle li in navibar*/
+{
+	#float: left;
+	display: inline-block;
+	/*
+	position: fixed;
+	width:200%;
+	
+	befesigen diesen abschnitt
+	*/
+	
+	
+}
+
+.navilist li a
+/* alle a in li*/
+{
+	margin: 0px 15px;
+	
+}
+
+.navilist li a:hover
+/* wenn man mit dem Maus rüber geht ändert sich die Farbe*/
+{
+	color: red;
+}
+
+.navibar
+{
+	
+}
+
+
+
+
+body
+{
+	
+	
+	background-color: aquamarine;
+	margin: 5px;
+}
+
+h1
+{
+	background-image: url("../img/a.jpg");
+	font-family : "Brush Script MT";
+	font-weight: 900;
+	font-size: 50px;
+	#position: relative;
+	padding: 50px;
+	border: 10px double royalblue;
+	#background-color: mediumslateblue;
+	text-align: center;
+	color: aquamarine;
+	background-size: cover;
+	
+	
+}
+
+#listen
+{
+	font-family : "Comic Sans MS";
+	font-weight: 900;
+	font-size: 30px;
+	margin: 0px;
+	
+	
+}
+
+table
+{
+	margin: 30px;
+}
+
+
+/*wichtige_termine*/
+#table_2
+{
+	margin: 50px 150px;
+}
+
+.zeilen
+{
+	padding: 5px 20px;
+	text-align: left;
+	border: 1px solid black;
+	
+}
+
+
+
+/*wichtige_termine*/
+.zeilen2
+{
+	padding: 5px 20px;
+	text-align: left;
+	border: 1px solid black;
+	margin: 30px;
+	
+}
+
+#bild
+{
+	margin: 0px 0px;
+	padding: 0px 400px;
+}
+
+.sections
+{
+	background-color: #1eFFD9;
+	border: 20px solid #4eFFD9;
+
+}
+
+
+/*ids weden mit # bezeichnet */
+main ul
+{
+	background-color: #1eFFD9;
+	border: 20px solid #4eFFD9;
+	border: 5px dashed black;
+	
+}
+
+
+main ul li a
+{
+	padding:10px;
+	
+	
+}
+
+main ul li .a
+{
+	color: #449999;
+	font-family: "Snell Roundhand", cursive;
+	font-size: 20px;
+}
+
+.spezial-text
+{
+	color: red;
+}
+
+footer
+{
+	background-color: #4eFFD9;
+	padding: 0px 0px 20px 10px;
+	letter-spacing: 6px;
+	list-style-type: none;
+	/* die punkte vor dem Text entfernen*/
+	/* die punkte vor dem Text entfernen*/
+}
+
+.testing_1
+{
+	#border: 2px solid black;
+	position: absolute;
+	#padding: 0px 0px 0px 30px;
+	top: 420px;
+	right: 55px;
+	
+	
+}
+
+.rechner
+{
+	#border: 2px solid black;
+	position: absolute;
+	#padding: 0px 0px 0px 30px;
+	top: 450px;
+	right: 55px;
+	
+	
+}
+
+.libs_game
+{
+	#border: 2px solid black;
+	position: absolute;
+	#padding: 0px 0px 0px 30px;
+	top: 480px;
+	right: 55px;
+	
+	
+}
+
+
+#knopf
+{
+	position: relative;
+	top: 0px;
+	right: 0px;
+	left: 145px;
+	margin: 3px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

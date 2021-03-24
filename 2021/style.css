@@ -1,0 +1,46 @@
+header{
+
+
+}
+
+h1{
+    text-align: center;
+    font-size: 200%;
+}
+.content{
+    display: grid;
+    grid-template-rows: auto;
+
+}
+
+
+.cards{
+    padding: 0px 0px 0px 20px;
+
+
+}
+.category{
+    background-color: rosybrown;
+    padding: 0px 0px 0px 50px;
+}
+.card{
+    display: grid;
+    grid-template-rows: 75% 25%;
+    float: left;
+    width: 60px;
+    height: 90px;
+    margin: 20px 30px 20px 40px;
+    
+}
+
+.lines{
+    padding: 0px 0px 0px 20px;
+}
+
+.line{
+    display: grid;
+    grid-template-columns: 90px auto;
+    float: left;
+    margin: 10px 15px 20px 15px;
+
+}
