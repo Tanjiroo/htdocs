@@ -6,7 +6,6 @@
             Startseite
             </a>
         </div>
-
         <div>
             <a href="database/database.php" target="_blank">
             My SQL Connection
@@ -43,13 +42,9 @@
             TEST
             </a>
         </div>
-
-        
-
-        
     </div>
-    <div class="main-grid">
-        <div class="main-navi">
+    <div>
+        <div>
             <h2>Pages</h2>
             <hr>
             <ul>
@@ -77,32 +72,8 @@
                     <a href="pc/index.php">PC Infos</a>
                 </li>
                 <hr>
-
             </ul>
-            
-            
         </div>
-
-        <div class="main-content">
-            <table>
-                <tr>
-                    <td>Name: </td>
-                    <td><input type="text" name="name"></td>
-                </tr>
-                <tr>
-                    <td>E-Main: </td>
-                    <td><input type="text" name="email"></td>
-                </tr>
-                <tr>
-                    <td><input type="checkbox" name="datenschutz" value="ok" require_onced> Mit der Anmeldung.....</td>
-                </tr>
-                <br>
-                <tr>
-                    <input type="submit" name="eintragen" value="Eintragen">
-                </tr>
-            </table>
-        </div>
-
     </div>
 
 </div>
