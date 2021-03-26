@@ -105,7 +105,7 @@
                         <h4 style="text-align: center; font-size:24px;
                          font-family: Brush Script Std, cursive;
                          margin: 0px;
-                        ">Home</h4>
+                        ">H.page</h4>
                     </div>
 
                 </div>
@@ -220,7 +220,7 @@
                         <h4 style="text-align: center; font-size:24px;
                          font-family: Brush Script Std, cursive;
                          margin: 0px;
-                        ">Home</h4>
+                        ">H.page</h4>
                     </div>
 
                 </div>
@@ -289,7 +289,7 @@
                 </div>
 
             </a>
-            <a href="https://moodle.studiumdigitale.uni-frankfurt.de/moodle/enrol/index.php?id=1395">
+            <a href="https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1395">
                 <div class="card" style="">
                     <div style=" border-radius: 25px;">
                         <H3 style="text-align: center; font-size:55px;
@@ -330,9 +330,10 @@
 
 
     <div class="category">
-            <h2> B-ALGO: Algorithmen und Datenstrukturen 1</h2>
+            <h2>B-ALGO: Algorithmen und Datenstrukturen 1</h2>
         </div>
-        <div class="cards">            <a href="">
+        <div class="cards">           
+        <a href="">
                 <div class="card" style="">
                     <div style=" border-radius: 25px;">
                         <H3 style="text-align: center; font-size:55px;
@@ -368,7 +369,7 @@
                 </div>
 
             </a>
-            <a href="">
+            <a href="https://moodle.studiumdigitale.uni-frankfurt.de/moodle/enrol/index.php?id=1325">
                 <div class="card" style="">
                     <div style=" border-radius: 25px;">
                         <H3 style="text-align: center; font-size:55px;
@@ -398,7 +399,7 @@
                         <h4 style="text-align: center; font-size:24px;
                          font-family: Brush Script Std, cursive;
                          margin: 0px;
-                        ">Home</h4>
+                        ">H.page</h4>
                     </div>
 
                 </div>
@@ -422,124 +423,6 @@
             </a>
         </div>
 
-    <!---------------------------------------------------------------------------------->
-
-
-    
-
-
-    <div class="category">
-            <h2> B-HWS-PR: Praktikum Grundlagen von Hardwaresystemen</h2>
-        </div>
-        <div class="cards">
-            <a href="">
-                <div class="card" style="">
-                    <div style=" border-radius: 25px;">
-                        <H3 style="text-align: center; font-size:55px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Z</H3>
-                    </div>
-                    <div style="">
-                        <h4 style="text-align: center; font-size:24px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Zoom</h4>
-                    </div>
-
-                </div>
-
-            </a>
-            <a href="">
-                <div class="card" style="">
-                    <div style=" border-radius: 25px;">
-                        <H3 style="text-align: center; font-size:55px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">G</H3>
-                    </div>
-                    <div style="">
-                        <h4 style="text-align: center; font-size:24px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Gruppe</h4>
-                    </div>
-
-                </div>
-
-            </a>
-            <a href="">
-                <div class="card" style="">
-                    <div style=" border-radius: 25px;">
-                        <H3 style="text-align: center; font-size:55px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">M</H3>
-                    </div>
-                    <div style="">
-                        <h4 style="text-align: center; font-size:24px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Moodle</h4>
-                    </div>
-
-                </div>
-
-            </a>
-            
-            <a href="">
-                <div class="card" style="">
-                    <div style=" border-radius: 25px;">
-                        <H3 style="text-align: center; font-size:55px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">O</H3>
-                    </div>
-                    <div style="">
-                        <h4 style="text-align: center; font-size:24px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Olat</h4>
-                    </div>
-
-                </div>
-
-            </a>
-            <a href="">
-                <div class="card" style="">
-                    <div style=" border-radius: 25px;">
-                        <H3 style="text-align: center; font-size:55px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">H</H3>
-                    </div>
-                    <div style="">
-                        <h4 style="text-align: center; font-size:24px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Home</h4>
-                    </div>
-
-                </div>
-
-            </a>
-            <a href="https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=318158&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung">
-                <div class="card" style="">
-                    <div style=" border-radius: 25px;">
-                        <H3 style="text-align: center; font-size:55px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">Q</H3>
-                    </div>
-                    <div style="">
-                        <h4 style="text-align: center; font-size:24px;
-                         font-family: Brush Script Std, cursive;
-                         margin: 0px;
-                        ">QIS</h4>
-                    </div>
-                </div>
-            </a>
-        </div>
     <!---------------------------------------------------------------------------------->
 
 
@@ -633,7 +516,7 @@
                         <h4 style="text-align: center; font-size:24px;
                          font-family: Brush Script Std, cursive;
                          margin: 0px;
-                        ">Home</h4>
+                        ">H.page</h4>
                     </div>
 
                 </div>
@@ -657,6 +540,238 @@
             </a>
         </div>
     <!---------------------------------------------------------------------------------->
+
+
+    <div class="category">
+        <h2>Einführung in Verteilte Systeme</h2>
+        </div>
+        <div class="cards">
+            <a href="https://uni-frankfurt.zoom.us/j/94752408028?pwd=ZGJGdzdKVUxGQnNWbTh4eVYvOWJhdz09">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Z</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Zoom</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">G</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Gruppe</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="https://moodle.studiumdigitale.uni-frankfurt.de/moodle/enrol/index.php?id=1383">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">M</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Moodle</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">O</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Olat</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">H</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">H.page</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Q</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">QIS</h4>
+                    </div>
+                </div>
+            </a>
+        </div>
+    <!----------------------------------------------------------------------------------->
+
+
+
+
+    <div class="category">
+        <h2>Eingebettete Systeme</h2>
+        </div>
+        <div class="cards">
+            <a href="https://uni-frankfurt.zoom.us/j/97499198279?pwd=L1B0Lzl1eWZVMi92bGM0YnFsZ0RhQT09">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Z</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Zoom</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">G</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Gruppe</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="https://moodle.studiumdigitale.uni-frankfurt.de/moodle/course/view.php?id=1273">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">M</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Moodle</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">O</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Olat</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">H</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">H.page</h4>
+                    </div>
+
+                </div>
+
+            </a>
+            <a href="">
+                <div class="card" style="">
+                    <div style=" border-radius: 25px;">
+                        <H3 style="text-align: center; font-size:55px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">Q</H3>
+                    </div>
+                    <div style="">
+                        <h4 style="text-align: center; font-size:24px;
+                         font-family: Brush Script Std, cursive;
+                         margin: 0px;
+                        ">QIS</h4>
+                    </div>
+                </div>
+            </a>
+        </div>
+    <!----------------------------------------------------------------------------------->
 
 
 
@@ -775,6 +890,9 @@
         </div>
 
     <!---------------------------------------------------------------------------------->
+
+
+
 
 
     </div>
